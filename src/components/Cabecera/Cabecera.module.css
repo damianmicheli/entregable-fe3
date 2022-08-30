@@ -1,0 +1,15 @@
+.encabezado {
+  background-color: #ddd;
+  padding: 20px 40px;
+}
+
+.encabezado h1{
+  margin-bottom: 10px;
+}
+
+.encabezado p span {
+  background-color: black;
+  color: white;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
